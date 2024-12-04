@@ -40,7 +40,9 @@
 //   return 0;
 // }
 
-  
+  int findEl () {
+     
+  }
   
   int main (){
       int arr [5] { 5 ,7 ,3,5,6,} ;
