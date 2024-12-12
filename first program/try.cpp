@@ -62,7 +62,7 @@ int main (){
 //     oddsum+=i;
     
 // }
-// cout << oddsum ;
+// cout << oddsum ;q
 int n = 15;
 
 
